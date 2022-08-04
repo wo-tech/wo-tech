@@ -1,9 +1,9 @@
-#日本語 
+### 日本語 
 
 翻訳会社で働いているデベロッパーです。
 業務改善のために開発したGASのライブラリーをこちらで保存。
 
-#English 
+### English 
 
 Developper for a Jp trasnlation company.
 Uses this repo to store GAS library, used for in-house RPA.
